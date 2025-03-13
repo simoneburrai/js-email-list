@@ -1,0 +1,8 @@
+.newemail {
+    text-wrap: nowrap;
+    overflow: hidden;
+}
+
+/* #generateEmailButton {
+    width: 100%!important;
+} */
