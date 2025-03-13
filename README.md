@@ -24,9 +24,9 @@ Il secondo Bonus consiste nell'aggiungere in pagina un bottone. Cliccando questo
 Qui di seguito si trovano dei link utili per la realizzazione di questo progetto.
 
 
-[Axios][https://axios-http.com/es/docs/intro]
-[AJAX][https://developer.mozilla.org/en-US/docs/Glossary/AJAX]
-[POSTMAN][https://www.postman.com/]
-[DOM][https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model]
+[Axios](https://axios-http.com/es/docs/intro)
+[AJAX](https://developer.mozilla.org/en-US/docs/Glossary/AJAX)
+[POSTMAN](https://www.postman.com/)
+[DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 
 
